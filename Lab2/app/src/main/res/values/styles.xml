@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="recyclerItem">
+        <item name="android:background">@drawable/background_text_view_recycler</item>
+    </style>
+
+</resources>
